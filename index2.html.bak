@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+			<meta charset= "UTF-8">
+		<title>pizzando</title>
+			<style>
+			body{background-color:#3282F6;}
+			</style>
+	</head>
+	<!-- CSS embutido ou inline-->
+	<body style="color: gray;">
+		Pizza e muito bom
+		<h1>Super pizzazona</h1>
+		<h3>Pizzazinha</h3>
+		<p>Novas pizzas, porque pizzas sao pizzas? e essa e a vida de uma pizza.</p>
+		<img src="C:\Users\laboratorio\Documents\caua\imagem\steve pizza.png" title="Steve pizza">
+		<br><iframe width="560" height="315" src="https://www.youtube.com/embed/u9YXJlzZBtM?si=ItPPTr1uhA9fy9hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		<a href="file:///C:/Users/laboratorio/Documents/caua/index.html"><br>voltar para a batata</a>
+		<ul>
+			<li>
+				SKATE
+			</li>
+			<li>
+				BASQUETE
+			</li>
+			<li>
+				VOLEI
+			</li>
+		</ul>
+		<center>
+		<table >
+			<tr>  
+				<td>
+					skate
+				</td>
+				<td>
+					basquete
+				</td>
+				<td>	
+					volei
+				</td>
+			</tr>
+			<tr>  
+				<td>
+					<a href="https://brasilescola.uol.com.br/educacao-fisica/skate.htm">
+					<img src="C:\Users\laboratorio\Documents\caua\imagem\skate.png" width="200px">
+					</a>
+				</td>
+				<td>
+					<a href="https://brasilescola.uol.com.br/educacao-fisica/basquetebol.htm#:~:text=O%20basquetebol%20ou%20basquete%20%C3%A9,agilidade%20e%20a%20coordena%C3%A7%C3%A3o%20motora.">
+					<img src="C:\Users\laboratorio\Documents\caua\imagem\basquete.png"</tdwidth="200px">
+					</a>
+				</td>
+				<td>
+				</td>
+				<td>
+					<a href="https://brasilescola.uol.com.br/educacao-fisica/voleibol.htm">
+					<img src="C:\Users\laboratorio\Documents\caua\imagem\volei.jpg"<width="200px">
+					</a>
+				</td>
+			</tr>
+		</table>
+		</center>
+					<ol>	
+						<li>
+							skate
+						</li>
+						<li>
+							basquete
+						</li>
+						<li>
+							volei
+						</li>
+					</ol>
+		<form>
+			Informe também o(s) seu(s) hobbies
+			<br><input type="texto" placeholder="Digite aqui">
+			<br>Informe seu e-mail
+			<br><input type="e-mail" placeholder="Digite aqui">
+			<br>Informe sua senha 
+			<br><input type="password" placeholder="Digite aqui">
+			<br>Escolha sua cor favorita 
+			<br><input type="color">
+			<br><input type="date">
+			<br><input type="time">
+			<br><input type="file">
+			<br><input type="submit">
+		</form>
+	</body>
+</html>	
